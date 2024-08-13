@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Chiemezie Nwite - [Github](https://github.com/Sparkling24) 
+Gift David [Github](https://github.com/gift101)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
